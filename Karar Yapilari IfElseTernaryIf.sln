@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar Yapilari IfElseTernaryIf", "Karar Yapilari IfElseTernaryIf.csproj", "{E59C485B-1E7C-4D3D-B5B9-CA6D4F064692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59C485B-1E7C-4D3D-B5B9-CA6D4F064692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59C485B-1E7C-4D3D-B5B9-CA6D4F064692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59C485B-1E7C-4D3D-B5B9-CA6D4F064692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59C485B-1E7C-4D3D-B5B9-CA6D4F064692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {255B15CE-1F41-47C4-8F6D-AA7E73A3F130}
+	EndGlobalSection
+EndGlobal
